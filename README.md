@@ -1,4 +1,6 @@
-## Hi
+## About Me
+I am a sophmore in college interested in general programming, game development, and AI.
+Right now, I'm working in Godot with C# to make a voxel game using surfacenets.
 
 <h2>Tools I Use</h2>
 <p align="left">
@@ -18,8 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="45" height="45"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="45" />
           
-          
-
 
 </p>
 
