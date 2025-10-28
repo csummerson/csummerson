@@ -1,5 +1,5 @@
 ## About Me
-I am a sophmore in college interested in general programming, game development, and AI.
+I am a sophomore in college interested in general programming, game development, and AI.
 Right now, I'm working in Godot with C# to make a voxel game using surfacenets.
 
 <h2>Tools I've Used</h2>
